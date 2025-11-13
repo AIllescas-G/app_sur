@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# 🧪 Prueba Técnica UX/UI – AppSur  
+> Realizada por Antonio Illescas – [antonioillescas.netlify.app](https://antonioillescas.netlify.app)
 
-## Project info
+## 🧭 Introducción
 
-**URL**: https://lovable.dev/projects/bfe7eb94-7dda-4157-a64a-f7ee83fc02f0
+Este proyecto es una propuesta de solución para la prueba técnica del proceso de selección en AppSur, centrada en el diseño y desarrollo de una vista funcional en entorno web.  
+La prueba ha sido planteada con un enfoque realista, priorizando el diseño de experiencia, la claridad visual y la estructura técnica del prototipo.
 
-## How can I edit this code?
+## 🛠️ Stack utilizado
 
-There are several ways of editing your application.
+- **React** (con Vite)
+- **TypeScript**
+- **TailwindCSS** (estilos y layout)
+- **React Router** (si aplica navegación)
+- **Figma** (para wireframes y base visual previa al desarrollo)
+- **Visual Studio Code** + Git
 
-**Use Lovable**
+## 🧩 Enfoque del desarrollo
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bfe7eb94-7dda-4157-a64a-f7ee83fc02f0) and start prompting.
+Mi objetivo ha sido construir una **interfaz funcional y semántica**, con código limpio y fácilmente escalable.  
+He dado prioridad a:
 
-Changes made via Lovable will be committed automatically to this repo.
+- Jerarquía visual clara  
+- Buenas prácticas de accesibilidad  
+- Composición de componentes reutilizables  
+- Separación lógica de vistas y elementos funcionales  
+- Uso moderado de utilidades de IA como apoyo para acelerar algunas tareas (estructuras de componentes, generación de datos falsos, etc.), siempre con supervisión y criterio propio.
 
-**Use your preferred IDE**
+## ✨ Qué incluye el proyecto
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Diseño responsive adaptado a escritorio y móvil  
+- Componentes reutilizables y tipados con TypeScript  
+- Layout estructurado con semántica clara  
+- Simulación de datos o estados (donde se requiere)  
+- Interacción básica simulada (inputs, botones, estados visuales)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📁 Estructura del proyecto
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bfe7eb94-7dda-4157-a64a-f7ee83fc02f0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
